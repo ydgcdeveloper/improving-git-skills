@@ -7,4 +7,4 @@ function difference(a, b) {
 }
 
 console.log(sum(5, 10));
-
+console.log(difference(5, 10));
