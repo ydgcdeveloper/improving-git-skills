@@ -1,5 +1,10 @@
-function sum(a = 1, b = 1){
-    return a + b;
+function sum(a, b) {
+  return a + b;
 }
 
-console.log(sum(5, 10))
+function difference(a, b) {
+  return Math.abs(a - b);
+}
+
+console.log(sum(5, 10));
+
