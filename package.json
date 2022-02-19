@@ -1,0 +1,19 @@
+{
+  "name": "improving-git-skills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ydgcdeveloper/improving-git-skills.git"
+  },
+  "author": "Yan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ydgcdeveloper/improving-git-skills/issues"
+  },
+  "homepage": "https://github.com/ydgcdeveloper/improving-git-skills#readme"
+}
